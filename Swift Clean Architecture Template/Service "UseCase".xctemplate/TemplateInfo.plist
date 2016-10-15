@@ -34,13 +34,13 @@
 		</dict>
 		<dict>
 			<key>Default</key>
-			<string>___VARIABLE_sceneName:identifier___RepositoryImp</string>
+			<string>___VARIABLE_sceneName:identifier___Service</string>
 			<key>Description</key>
-			<string>The Repository name</string>
+			<string>The Service name</string>
 			<key>Identifier</key>
-			<string>repositoryName</string>
+			<string>serviceName</string>
 			<key>Name</key>
-			<string>Repository Name:</string>
+			<string>Service Name:</string>
 			<key>Required</key>
 			<true/>
 			<key>Type</key>
