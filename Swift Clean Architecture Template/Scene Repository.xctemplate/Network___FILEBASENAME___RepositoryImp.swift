@@ -11,7 +11,7 @@
 import Foundation
 
 
-class Network___FILEBASENAMEASIDENTIFIER___RepositoryImp :  ___FILEBASENAMEASIDENTIFIER___Repository {
+struct Network___FILEBASENAMEASIDENTIFIER___RepositoryImp :  ___FILEBASENAMEASIDENTIFIER___Repository {
     
     
 }

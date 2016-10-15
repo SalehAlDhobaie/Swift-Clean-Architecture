@@ -11,7 +11,7 @@
 import Foundation
 
 
-class Mock___FILEBASENAMEASIDENTIFIER___RepositoryImp :  ___FILEBASENAMEASIDENTIFIER___Repository {
+struct Mock___FILEBASENAMEASIDENTIFIER___RepositoryImp :  ___FILEBASENAMEASIDENTIFIER___Repository {
     
     
 }

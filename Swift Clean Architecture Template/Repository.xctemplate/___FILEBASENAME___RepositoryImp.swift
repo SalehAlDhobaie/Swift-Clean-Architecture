@@ -11,7 +11,7 @@
 import Foundation
 
 
-class ___FILEBASENAMEASIDENTIFIER___RepositoryImp :  ___FILEBASENAMEASIDENTIFIER___Repository {
+struct ___FILEBASENAMEASIDENTIFIER___RepositoryImp :  ___FILEBASENAMEASIDENTIFIER___Repository {
     
     
 }

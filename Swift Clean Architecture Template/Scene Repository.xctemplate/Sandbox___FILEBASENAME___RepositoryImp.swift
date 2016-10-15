@@ -11,7 +11,7 @@
 import Foundation
 
 
-class Sandbox___FILEBASENAMEASIDENTIFIER___RepositoryImp :  ___FILEBASENAMEASIDENTIFIER___Repository {
+struct Sandbox___FILEBASENAMEASIDENTIFIER___RepositoryImp :  ___FILEBASENAMEASIDENTIFIER___Repository {
     
     
 }
