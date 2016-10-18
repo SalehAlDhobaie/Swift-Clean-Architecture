@@ -15,6 +15,17 @@ This Template is derived from the Clean Architecture proposed by Uncle Bob. They
 ![1](http://cdn.macoscope.com/blog/wp-content/uploads/2015/12/diagram_2.png)
 
 ### Install
+To install the Clean Swift Xcode templates, run:
+
+> make install_templates
+
+To uninstall the Clean Swift Xcode templates, run:
+
+> make uninstall_templates
+
+### Credit 
+* [Raymond](http://clean-swift.com)
+* [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
 
 ===== 
 
