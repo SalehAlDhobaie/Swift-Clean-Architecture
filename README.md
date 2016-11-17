@@ -23,6 +23,30 @@ To uninstall the Clean Swift Xcode templates, run:
 
 > make uninstall_templates
 
+
+### How to use it
+
+after you install the template by 'makefile' you will find the templates under custome section.
+
+**NOTE** : you might faced an issue after creating UseCase or Service since the service must implemnts the UseCase Prorotcol. in order to fix the issue create a new file with name "UseCase.swift" for implementation just copy and past the following code below : 
+
+```swift
+
+internal protocol UseCase {
+    associatedtype Element
+    func execute(request : UseCaseRequest) -> Element
+    
+}
+
+
+public protocol UseCaseRequest {
+    
+}
+
+```
+
+
+
 ### Credit 
 * [Raymond](http://clean-swift.com)
 * [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
